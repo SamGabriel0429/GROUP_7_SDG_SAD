@@ -20,3 +20,6 @@ The system uses a 3-tier architecture because it allows clear separation of pres
 | Gabriel, Sam Jared G. | Logical Use Case Models & GitHub Repository |
 | Manalac, John Paul L. | Level 1 DFD |
 | Nabayat, Charisse B. | Level 0 & Level 1 DFD |
+
+### Figma Prototype Link
+https://www.figma.com/make/lFn48poS9e9PbajrjAjbml/ReliefTrack-PH?t=3cT8ojomJn57bFpZ-1
